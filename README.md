@@ -1,16 +1,9 @@
-# bitirme_calismasi
+# Bitirme Çalışması
 
-Flutter Bootcamp Bitirme
+Ekran GÖrüntüsü :
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/9364520/192107823-fb813fe6-edea-474d-8be8-2f9ad90cdf4e.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
